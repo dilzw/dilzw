@@ -1,10 +1,8 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Vidura Dilshan</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="dilzw" /> </p>
+<p align="center"> <img src="https://cdn.dribbble.com/users/669537/screenshots/4803291/media/62d55e1c8b2f8829bb2ff42b1d6b7b64.gif" alt="dilzw" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilzw&label=Profile%20views&color=0e75b6&style=flat" alt="dilzw" /> </p>
 
 - 🌱 I’m currently learning **React, JavaScript**
 
