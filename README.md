@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Vidura Dilshan</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
 
-<p align="left"> <img src="[https://iconscout.com/lottie-animation/programmer-4375641](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" alt="dilzw" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="dilzw" /> </p>
 
 - 🌱 I’m currently learning **React, JavaScript**
 
