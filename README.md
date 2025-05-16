@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **React, JavaScript**
 
-- 💬 Ask me about **Java, React**
-
 - 📫 How to reach me **viduradilshan999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
