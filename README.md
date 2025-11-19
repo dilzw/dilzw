@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://cdn.dribbble.com/users/669537/screenshots/4803291/media/62d55e1c8b2f8829bb2ff42b1d6b7b64.gif" alt="dilzw" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilzw&label=Profile%20views&color=0e75b6&style=flat" alt="dilzw" /> </p>
 
-- 🌱 I’m currently learning **React, JavaScript**
+- 🌱 I’m currently learning **Vue, React, JavaScript**
 
 - 📫 How to reach me **viduradilshan999@gmail.com**
 
@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilzw&show_icons=true&locale=en" alt="dilzw" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilzw&" alt="dilzw" /></p>
+
